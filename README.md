@@ -35,10 +35,10 @@ VideoJS:
 ## Capturas
 
 ![Pagina1]
-(img/pagina1.jpg)
+(https://cdn.discordapp.com/attachments/816556297516220416/895898396131479583/unknown.png)
 
 ![Pagina2]
-(img/pagina2.jpg)
+(https://cdn.discordapp.com/attachments/816556297516220416/895898489932877834/unknown.png)
 
 ![Pagina3]
 (img/pagina3.jpg)
