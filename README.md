@@ -2,7 +2,7 @@
  
 ### Esta página es sobre mis gustos y las cosas que me gusta hacer en mis tiempos libres, como es ver series, peliculas y escuchar musica. Se utilizo un CardGroup para las series, se hizo uso de la libreria VideoJS para el video, y las canciones se reproducen como audio mp4.
 
-##Tecnologías utilizadas
+## Tecnologías utilizadas
 Bootstrap: 
 [Bootstrap] (https://getbootstrap.com/)  
 
@@ -28,7 +28,7 @@ VideoJS:
 
 <link rel="stylesheet" href="css/estilos.css">
 
-##Capturas
+## Capturas
 
 ![Pagina1]
 (img/pagina1.jpg)
