@@ -41,10 +41,10 @@ VideoJS:
 (https://cdn.discordapp.com/attachments/816556297516220416/895898489932877834/unknown.png)
 
 ![Pagina3]
-(img/pagina3.jpg)
+(https://cdn.discordapp.com/attachments/816556297516220416/895898616609243156/unknown.png)
 
 ![Pagina4]
-(img/pagina4.jpg)
+(https://cdn.discordapp.com/attachments/816556297516220416/895898694614921226/unknown.png)
 
 ![Pagina5]
-(img/pagina5.jpg)
+(https://cdn.discordapp.com/attachments/816556297516220416/895898764462678016/unknown.png)
